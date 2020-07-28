@@ -1,0 +1,28 @@
+header {
+    border-bottom: 1px solid black;
+}
+
+header span {
+    font-size: 16px;
+}
+
+li footer {
+    border-top: 1px solid black;
+}
+
+.list-item {
+    min-width: 100%;
+    padding: 10px;
+    margin: 10px auto 10px;
+    border: 1px solid #9b9b90;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.btn-del {
+    background-color: transparent;
+    border: none;
+}
